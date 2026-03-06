@@ -1,0 +1,9 @@
+The Introduction to Data Analysis – Working with Real Data project requires the pandas library to load, clean, and analyze the dataset stored in a CSV file. Pandas is a powerful Python library used for data manipulation and analysis, allowing users to perform tasks such as reading datasets, handling missing values, exploring data structure, and calculating statistical metrics like total revenue, averages, and maximum values.
+
+Since the project uses pandas functions such as read_csv(), groupby(), sum(), and mean() to analyze the sales dataset, the pandas package must be installed in your Python environment. Apart from pandas, the project relies only on the standard Python library, so no additional dependencies are required.
+
+To install the required library, run the following command in your terminal or command prompt:
+
+pip install pandas
+
+Once pandas is installed and Python 3.x is available on your system, the project can be executed smoothly. This keeps the project simple, lightweight, and beginner-friendly while still demonstrating real-world data analysis using Python.
